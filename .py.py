@@ -1,0 +1,6 @@
+d=(input("enter the value :"))
+if(d>='a') and (d<='a'):
+    print("d is alphabet")
+# elif(d>=0) and (d>0):
+#     print("d is digit")
+    
